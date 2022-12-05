@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"CachedBmp_16":
+{
+	"frame": {"x":1495,"y":436,"w":247,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":247,"h":90},
+	"sourceSize": {"w":247,"h":90}
+},
+"CachedBmp_17":
+{
+	"frame": {"x":1614,"y":528,"w":226,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":73},
+	"sourceSize": {"w":226,"h":73}
+},
+"CachedBmp_18":
+{
+	"frame": {"x":1119,"y":0,"w":374,"h":544},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":544},
+	"sourceSize": {"w":374,"h":544}
+},
+"CachedBmp_19":
+{
+	"frame": {"x":1119,"y":862,"w":500,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":176},
+	"sourceSize": {"w":500,"h":176}
+},
+"CachedBmp_20":
+{
+	"frame": {"x":1454,"y":546,"w":158,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":223},
+	"sourceSize": {"w":158,"h":223}
+},
+"CachedBmp_21":
+{
+	"frame": {"x":0,"y":0,"w":1117,"h":1145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1117,"h":1145},
+	"sourceSize": {"w":1117,"h":1145}
+},
+"CachedBmp_22":
+{
+	"frame": {"x":1495,"y":0,"w":82,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":229},
+	"sourceSize": {"w":82,"h":229}
+},
+"CachedBmp_23":
+{
+	"frame": {"x":1614,"y":0,"w":79,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":434},
+	"sourceSize": {"w":79,"h":434}
+},
+"CachedBmp_24":
+{
+	"frame": {"x":1119,"y":546,"w":333,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":314},
+	"sourceSize": {"w":333,"h":314}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.5.40714",
+	"image": "燈籠HTML5 Canvas_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
