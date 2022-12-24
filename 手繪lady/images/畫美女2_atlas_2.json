@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":962,"y":0,"w":54,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":128},
+	"sourceSize": {"w":54,"h":128}
+},
+"CachedBmp_10":
+{
+	"frame": {"x":0,"y":436,"w":278,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":280},
+	"sourceSize": {"w":278,"h":280}
+},
+"CachedBmp_11":
+{
+	"frame": {"x":0,"y":0,"w":623,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":623,"h":434},
+	"sourceSize": {"w":623,"h":434}
+},
+"CachedBmp_12":
+{
+	"frame": {"x":0,"y":718,"w":312,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":103},
+	"sourceSize": {"w":312,"h":103}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":547,"y":791,"w":85,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":30},
+	"sourceSize": {"w":85,"h":30}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":280,"y":436,"w":299,"h":231},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":299,"h":231},
+	"sourceSize": {"w":299,"h":231}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":314,"y":669,"w":231,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":138},
+	"sourceSize": {"w":231,"h":138}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":581,"y":467,"w":192,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":322},
+	"sourceSize": {"w":192,"h":322}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":625,"y":0,"w":180,"h":465},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":465},
+	"sourceSize": {"w":180,"h":465}
+},
+"CachedBmp_8":
+{
+	"frame": {"x":807,"y":410,"w":153,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":408},
+	"sourceSize": {"w":153,"h":408}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":807,"y":0,"w":153,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":408},
+	"sourceSize": {"w":153,"h":408}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.5.40714",
+	"image": "畫美女2_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
